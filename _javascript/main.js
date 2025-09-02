@@ -23,7 +23,7 @@ function telaCheia() {
     meuVideo.requestFullscreen();
 }
 
-function aumentarVolume() {
+function aumentarVolumes() {
     meuVideo.volume += 0.1;
 }
 
